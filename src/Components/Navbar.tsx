@@ -15,7 +15,7 @@ export default function Navbar() {
                 Gallery
               </Link>
             </div>
-            <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+            <div className=" sm:ml-6 sm:flex sm:space-x-8">
               <Link
                 to="/"
                 className={`${
