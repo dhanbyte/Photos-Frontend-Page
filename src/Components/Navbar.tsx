@@ -17,7 +17,7 @@ export default function Navbar() {
           </div>
 
           {/* Center Nav Links */}
-          <div className="flex space-x-4">
+          <div className="flex pl-5 space-x-4">
             <Link
               to="/"
               className={`${
