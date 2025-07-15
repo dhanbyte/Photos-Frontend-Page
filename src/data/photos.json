@@ -1,0 +1,38 @@
+[
+  {
+    "eventId": "1",
+    "state": "Maharashtra",
+    "image": "https://printersclub.in/images/cat-images/Pamphle.jpg",
+    "uploadedAt": "2024-10-15"
+  },
+   {
+    "eventId": "2",
+    "state": "Maharashtra",
+    "image": "https://printersclub.in/images/cat-images/Pamphle.jpg",
+    "uploadedAt": "2023-10-15"
+  },
+  {
+    "eventId": "1",
+    "state": "Gujarat",
+    "image": "https://printersclub.in/images/cat-images/Pamphle.jpg",
+    "uploadedAt": "2024-04-01"
+  },
+  {
+    "eventId": "1",
+    "state": "Uttar Pradesh",
+    "image": "https://ik.imagekit.io/demo/holi-up.jpg",
+    "uploadedAt": "2024-02-20"
+  },
+    {
+        "eventId": "1",
+        "state": "Rajasthan",
+        "image": "https://ik.imagekit.io/demo/holi-rj.jpg",
+        "uploadedAt": "2024-03-10"
+    },
+    {
+        "eventId": "1",
+        "state": "Punjab",
+        "image": "https://ik.imagekit.io/demo/holi-pb.jpg",
+        "uploadedAt": "2024-03-15"
+    }
+]
